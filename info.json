@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "91f2016159a18c0c10a1c35081b5ef8a60de1348",
+    "author": "Marco Sciaini <marco.sciaini@roederzeibig.de>",
+    "time": "2020-07-21 08:33:57",
+    "files": 10,
+    "merge": false,
+    "message": "Deploy from Travis build 170 [ci skip]\n\nBuild URL: https://travis-ci.org/ropensci/landscapetools/builds/710286101\nCommit: ef08fc6f084ffa0030db5103a838f39f3ba12b5d\n"
+  },
+  "remote": "https://github.com/ropensci/landscapetools",
+  "pkg": "landscapetools"
+}
