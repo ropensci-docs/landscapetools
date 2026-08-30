@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "779a47c5b4f3cd522062180317bc847e314a3b7f",
+    "author": "Anatoly Tsyplenkov <s2@sent.com>",
+    "time": "2026-07-31T10:01:33Z",
+    "files": 0,
+    "merge": false,
+    "message": "Trigger GitHub contributor stats refresh\n"
+  },
+  "repo": "https://github.com/ropensci/landscapetools",
+  "pkg": "landscapetools",
+  "time": "2026-08-30T09:32:57Z"
+}
